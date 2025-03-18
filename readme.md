@@ -1,5 +1,5 @@
 ## About Me
-18 year old aspiring Web Developer/Designer
+19 year old aspiring Web Developer/Designer
 
 ## Tech Stack
 ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript--v1.png)
